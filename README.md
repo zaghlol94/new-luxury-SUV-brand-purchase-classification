@@ -7,14 +7,4 @@ new luxury SUV brand purchase  classification, we train more than model to class
  <h2>K-Nearst_Neighbour</h2>
  <p><img src="KNNT.png" alt="NB model" align="middle"> <img src="KNNTEST.png" alt="NB" align="middle"> </p> 
  
-  <h2>SVM</h2>
- <p><img src="LR.png" alt="LR model" align="middle"> <img src="lR2.png" alt="Smiley face" align="middle"> </p> 
- 
-  <h2>Logistic regression</h2>
- <p><img src="LR.png" alt="LR model" align="middle"> <img src="lR2.png" alt="Smiley face" align="middle"> </p> 
- 
-  <h2>Logistic regression</h2>
- <p><img src="LR.png" alt="LR model" align="middle"> <img src="lR2.png" alt="Smiley face" align="middle"> </p> 
- 
-  <h2>Logistic regression</h2>
- <p><img src="LR.png" alt="LR model" align="middle"> <img src="lR2.png" alt="Smiley face" align="middle"> </p> 
+  
